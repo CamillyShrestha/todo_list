@@ -26,3 +26,7 @@ This project is a simple and user-friendly To-Do List application built using Dj
 
 ## Acknowledgments
 Thank you to Dennis Ivy. I learned this from his tutorials on [Dannis Ivy](https://www.youtube.com/@DennisIvy), and it was really helpful for me.
+
+## Preview:
+
+
