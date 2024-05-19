@@ -24,9 +24,15 @@ This project is a simple and user-friendly To-Do List application built using Dj
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
+## Screenshots
+
+Here are some screenshots of our project:
+
+![Screenshot A](base/images/a.png)
+
+![Screenshot B](base/images/b.png)
+
+![Screenshot C](base/images/c.png)
+
 ## Acknowledgments
 Thank you to Dennis Ivy. I learned this from his tutorials on [Dannis Ivy](https://www.youtube.com/@DennisIvy), and it was really helpful for me.
-
-## Preview:
-
-
